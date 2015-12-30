@@ -1,4 +1,0 @@
-/Users/qianfeng007/Desktop/网络笔记/十七天/IFreeIos/Pods/MJRefresh/MJRefresh/MJRefresh.bundle
-/Users/qianfeng007/Desktop/网络笔记/十七天/IFreeIos/Pods/UMengSocial/Umeng_SDK_Social_iOS_ARM64_4.4/UMSocial_Sdk_4.4/UMSocialSDKResourcesNew.bundle
-/Users/qianfeng007/Desktop/网络笔记/十七天/IFreeIos/Pods/UMengSocial/Umeng_SDK_Social_iOS_ARM64_4.4/UMSocial_Sdk_Extra_Frameworks/TencentOpenAPI/TencentOpenApi_IOS_Bundle.bundle
-/Users/qianfeng007/Desktop/网络笔记/十七天/IFreeIos/Pods/UMengSocial/Umeng_SDK_Social_iOS_ARM64_4.4/UMSocial_Sdk_Extra_Frameworks/SinaSSO/WeiboSDK.bundle

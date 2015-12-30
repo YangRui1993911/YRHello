@@ -18,13 +18,17 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     
+    //15171517
+    //我是developer分支的内容
+    NSLog(@"我是 git developer 分支");
+    
     [UMSocialData setAppKey:@"566a8c11e0f55a839300243b"];
     self.window = [[UIWindow alloc]initWithFrame:[[UIScreen mainScreen]bounds]];
     self.window.backgroundColor = [UIColor whiteColor];
     IFreeTabBarController *tabBarController = [[IFreeTabBarController alloc]init];
     self.window.rootViewController = tabBarController;
     [self.window makeKeyAndVisible];
-
+//xxxxxxxxx
     return YES;
 }
 

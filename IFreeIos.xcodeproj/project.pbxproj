@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		1B3D4779D52E68528C0B4FDE /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 4BA92B5688AB820C888E9CAD /* libPods.a */; };
+		9512469A1C33C94C00264A33 /* developer.m in Sources */ = {isa = PBXBuildFile; fileRef = 951246991C33C94C00264A33 /* developer.m */; };
 		951E36E01C1A7B9C00D7DD8B /* JWCache.m in Sources */ = {isa = PBXBuildFile; fileRef = 951E36DF1C1A7B9C00D7DD8B /* JWCache.m */; };
 		9557A3A31C1AB8A700D936B9 /* DBManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 9557A3A21C1AB8A700D936B9 /* DBManager.m */; };
 		957856D21C1A5F3A00B63B15 /* ApplicationDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 957856D11C1A5F3A00B63B15 /* ApplicationDetailViewController.m */; };
@@ -217,6 +218,8 @@
 		4BA92B5688AB820C888E9CAD /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		72F6E93272000B978EA18D5A /* Pods.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.debug.xcconfig; path = "Pods/Target Support Files/Pods/Pods.debug.xcconfig"; sourceTree = "<group>"; };
 		8B0ABF7D689640DFB090A20F /* Pods.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.release.xcconfig; path = "Pods/Target Support Files/Pods/Pods.release.xcconfig"; sourceTree = "<group>"; };
+		951246981C33C94C00264A33 /* developer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = developer.h; sourceTree = "<group>"; };
+		951246991C33C94C00264A33 /* developer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = developer.m; sourceTree = "<group>"; };
 		951E36DE1C1A7B9C00D7DD8B /* JWCache.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JWCache.h; sourceTree = "<group>"; };
 		951E36DF1C1A7B9C00D7DD8B /* JWCache.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JWCache.m; sourceTree = "<group>"; };
 		9557A3A11C1AB8A700D936B9 /* DBManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DBManager.h; sourceTree = "<group>"; };
@@ -827,6 +830,8 @@
 				957856D11C1A5F3A00B63B15 /* ApplicationDetailViewController.m */,
 				957856D31C1A61DB00B63B15 /* AppDetailView.h */,
 				957856D41C1A61DB00B63B15 /* AppDetailView.m */,
+				951246981C33C94C00264A33 /* developer.h */,
+				951246991C33C94C00264A33 /* developer.m */,
 			);
 			name = viewControllers;
 			sourceTree = "<group>";
@@ -1203,6 +1208,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9512469A1C33C94C00264A33 /* developer.m in Sources */,
 				957B84151C18049700A03A1C /* ApplicationModel.m in Sources */,
 				95C102CD1C197F1300DC43A1 /* ApplicationView.m in Sources */,
 				95C102CA1C1975E700DC43A1 /* SubjectCell.m in Sources */,
