@@ -24,7 +24,7 @@
     IFreeTabBarController *tabBarController = [[IFreeTabBarController alloc]init];
     self.window.rootViewController = tabBarController;
     [self.window makeKeyAndVisible];
-
+//xxxxxxxxx
     return YES;
 }
 
